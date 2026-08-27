@@ -87,10 +87,8 @@ The project demonstrates practical knowledge of:
 
 Add screenshots of your application here.
 
-```text
 <img width="815" height="676" alt="image" src="https://github.com/user-attachments/assets/9898faa5-18e8-43e8-bddc-1cb3f9d7c077" />
 
-```
 
 ## 🔮 Future Improvements
 
