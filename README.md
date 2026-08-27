@@ -43,7 +43,7 @@ CODSOFT_TASK2/
 │
 │
 ├── README.md
-
+```
 
 ## 💡 How It Works
 
